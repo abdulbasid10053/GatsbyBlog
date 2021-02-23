@@ -6,6 +6,10 @@
 <h1 align="center">
   Jamify's blog starter <br/>
 </h1>
+<h2 align="center">
+    <a href="https://gatsbyblog-qqn1ct4s7-abdulbasid10053.vercel.app">
+  </a>
+</h2>
 
 [![Released under MIT license.](https://badgen.net/github/license/micromatch/micromatch)](https://github.com/styxlab/gatsby-starter-try-ghost/blob/master/LICENSE)
 [![gatsby-starter-try-ghost npm package version.](https://badgen.net/npm/v/gatsby-starter-try-ghost)](https://www.npmjs.org/package/gatsby-starter-try-ghost)
