@@ -5,10 +5,7 @@
 </p>
 <h1 align="center">
   Jamify's blog starter <br/>
-</h1>
-<h1 align="center">
-    <a href="https://gatsbyblog-qqn1ct4s7-abdulbasid10053.vercel.app">
-  </a>
+    https://mypersonalblog-pi.vercel.app/
 </h1>
 
 [![Released under MIT license.](https://badgen.net/github/license/micromatch/micromatch)](https://github.com/styxlab/gatsby-starter-try-ghost/blob/master/LICENSE)
